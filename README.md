@@ -1,16 +1,16 @@
 # Pre-work - *Tip App*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip App** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Michael Romero**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
