@@ -2,7 +2,7 @@
 
 **Tip App** is a tip calculator application for iOS.
 
-Submitted by: **Michael Romero**
+Submitted by: **Michael Romero-Sanchez**
 
 Time spent: **2** hours spent in total
 
