@@ -4,8 +4,6 @@
 
 Submitted by: **Michael Romero-Sanchez**
 
-Time spent: **2** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is complete:
@@ -37,7 +35,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2020] [Michael Ro,ero]
+    Copyright [2020] [Michael Romero]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
